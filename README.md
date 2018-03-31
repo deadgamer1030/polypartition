@@ -1,4 +1,4 @@
-#### PolyPartition-SFML compatibility
+#### PolyPartition-SFML compatibility WIP
 
 PolyPartition is a lightweight C++ library for polygon partition and triangulation. PolyPartition implements multiple algorithms for both convex partitioning and triangulation. Different algorithms produce different quality of results (and their complexity varies accordingly). The implemented methods/algorithms with their advantages and disadvantages are outlined below.
 
